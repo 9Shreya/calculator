@@ -1,0 +1,32 @@
+#a {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+  font-size: 30px;
+  width: 60px;
+  margin-right: 10px;
+  height: 40px;
+}
+#b {
+  margin-left: 35px;
+  font-size: 20px;
+  border-radius: 10px;
+  height: 40px;
+  margin-top: 10px;
+  width: 120px;
+}
+#l {
+  border-radius: 10px;
+}
+#s {
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid;
+  margin-top: 80px;
+  width: auto;
+  position: absolute;
+}
+.text {
+  margin-top: -20px;
+}
