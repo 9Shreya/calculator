@@ -69,9 +69,24 @@
     left: 10%;
   }
 }
-@media (max-width: 370px) {
+@media (max-width:415px) {
   .main {
-    margin-left: -15px;
+   
+    width: 320px;
+    height: 450px;
+  }
+  .container {
+    width: 10% !important;
+    margin-left: -7%;
+  }
+  .input {
+    margin-left: 15px;
+  }
+}
+
+@media (max-width:376px) {
+  .main {
+   margin-left: -3%;
     width: 320px;
     height: 450px;
   }
